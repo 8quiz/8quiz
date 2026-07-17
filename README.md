@@ -4,7 +4,6 @@ I'm a developer from Kaunas, Lithuania who enjoys learning and building things, 
 
 ## About Me
 
-- 🇱🇹 Based in Kaunas, Lithuania
 - ☕ Coffee enthusiast
 - 🐈‍⬛ - 🐕 Cat & Dog lover 
 - 🚀 Always learning new stuff :3
