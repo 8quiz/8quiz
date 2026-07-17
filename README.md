@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mantas 👋
 
-<!--
-**8quiz/8quiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from Kaunas, Lithuania who enjoys learning and building things, especially projects related to FiveM.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇱🇹 Based in Kaunas, Lithuania
+- ☕ Coffee enthusiast
+- 🐈‍⬛ - 🐕 Cat & Dog lover 
+- 🚀 Always learning new stuff :3
+
+## What I'm Learning
+
+- Svelte / SvelteKit
+- Writing cleaner and more scalable code
+
+## Fun Fact
+
+Learning new things feels more like a hobby than work.
